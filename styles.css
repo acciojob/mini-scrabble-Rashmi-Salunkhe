@@ -1,2 +1,20 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 24px;
+    color: #333;
+}
